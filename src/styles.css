@@ -1,3 +1,17 @@
 body {
-  font-family: sans-serif;
+  background-color: rgb(255, 136, 0);
+}
+
+div {
+  background-color: green;
+}
+
+.big {
+  font-size: 50px;
+  background-color: blue;
+}
+
+button {
+  background-color: black;
+  color: aqua;
 }
